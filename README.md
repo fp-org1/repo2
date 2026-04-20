@@ -1,7 +1,7 @@
 # anjan-pr-policy-test
 
 A test repository for PR (Pull Request) policies with intentional SAST/SCA vulnerabilities for security scanning testing.
-edit1
+edit2
 
 ## Purpose
 
